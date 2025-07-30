@@ -1,6 +1,5 @@
-# 🚀 Painel de Utilidades para Devs
+ Painel de Utilidades para Devs
 
-![Status do Projeto](https://img.shields.io/badge/status-em_desenvolvimento-yellow)
 
 > Aplicação full stack que serve como um painel de utilidades, incluindo um sistema de autenticação de usuários e um feed de notícias de tecnologia consumido de uma API externa.
 
